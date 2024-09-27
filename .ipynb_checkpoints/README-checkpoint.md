@@ -12,7 +12,7 @@ Historical stock price data for:
 - TSM (TSM)
 
 ## Key Analysis
-- **Data Cleaning**: Handling missing data, adjusting stock prices.
+- **Data Cleaning**: Checking for missing data, converting data types, and adjusting stock prices.
 - **EDA**: Trend analysis, volatility, and stock correlations.
 - **Financial Metrics**: Daily/cumulative returns, volatility, Sharpe ratio.
 - **Visualisations**: Line plots, moving averages, volatility charts, correlation heatmaps.
