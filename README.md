@@ -27,8 +27,7 @@ Historical stock price data for:
    git clone https://github.com/yourusername/Semiconductor_Stock_Analysis.git
    ```
 2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
+pip install -r requirements.txt   
    ```
 3. Run the Jupyter notebook.
 

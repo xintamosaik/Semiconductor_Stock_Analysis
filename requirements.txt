@@ -1,0 +1,5 @@
+pandas==2.1.0          # For data manipulation and analysis
+numpy==1.24.3          # For numerical operations
+matplotlib==3.7.2      # For plotting static visualisations
+yfinance==0.2.18       # To fetch stock data from Yahoo Finance
+seaborn==0.12.2        # For enhanced statistical data visualisation
