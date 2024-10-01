@@ -28,7 +28,7 @@ Historical stock price data for:
    ```
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements.txt   
    ```
 3. Run the Jupyter notebook.
 
