@@ -5,4 +5,5 @@ format: jb-book
 root: intro
 chapters:
 - file: get_stock_data
+- file: semiconductor_stock_analysis_2015_2023
 
